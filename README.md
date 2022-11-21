@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **richardlois8/richardlois8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +14,31 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/WTjXuYA2y4o3UZly3W/giphy.gif" width="200"/>
+</div>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/richardlois8/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@richardlois8">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=richardlois8&style=flat-square&color=blue" alt=""/>
+</div>
+
+<h1>
+  Hi there!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :man_technologist: About Me :
+I'm developer from Indonesia. Currently I'm interested developing :iphone: mobile application.
+
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardlois8&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardlois8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
