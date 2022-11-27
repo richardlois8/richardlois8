@@ -40,5 +40,6 @@ Here are some ideas to get you started:
 I'm developer from Indonesia. Currently I'm interested developing :iphone: mobile application.
 
 ### :fire: My Stats :
+[![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=richardlois8&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=richardlois8&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardlois8&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
